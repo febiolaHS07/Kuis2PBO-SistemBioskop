@@ -1,0 +1,5 @@
+No   ID Penonton  Nama       Kode Film  Judul Film                 Jumlah
+-------------------------------------------------------------------------
+1    ACT-01       Oki        OBJ-A      Premiere Studio - Action        3
+2    ACT-02       Putri      OBJ-C      Ekonomis Studio - Drama         2
+3    ACT-02       Putri      OBJ-A      Premiere Studio - Action        1
